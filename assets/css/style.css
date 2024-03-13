@@ -57,7 +57,7 @@ header h1>span{
 }
 
 .greeting p{
-  margin-top: 1em;
+  margin: 1em 1em 0;
   color: #727171;
 }
 
